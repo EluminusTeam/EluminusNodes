@@ -1,0 +1,26 @@
+body{
+  font-family: montsetrrat;
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(100deg,blue,cyan);
+  height: 120vh;
+}
+.Welcome_sign{
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  text-decoration: underline;
+}
+.accountbox{
+  color: white;
+}
+.about{
+  color: white;
+}
+.log{
+  color: white;
+}
+.input[type=""]{
+ color: pink;
+ width: 100%;
+}
